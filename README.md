@@ -9,7 +9,7 @@ This project demonstrates the implementation of a **3-Tier Architecture** using 
 
 The architecture ensures **high availability, fault tolerance, and scalability**.
 
-![Architecture Diagram](~/Downloads/3tierarchitecture/3tier.webp)
+![Architecture Diagram](https://github.com/gukantipavan/3tier-architecture-project/blob/master/3tier.webp)
 
 ---
 
@@ -27,7 +27,7 @@ The architecture ensures **high availability, fault tolerance, and scalability**
 ## Architecture Diagram
 Here is the visual representation of the 3-tier architecture:
 
-![3-Tier Architecture Diagram](~/Downloads/3tierarchitecture/3tier.webp)
+![3-Tier Architecture Diagram](https://github.com/gukantipavan/3tier-architecture-project/blob/master/3tier.webp)
 
 ---
 
